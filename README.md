@@ -47,20 +47,19 @@ Voici quelques idées de groupes : jeunes adultes et professionnels en colocatio
 tictic/
 │
 ├── code/
-│   ├── titic/
+│   ├── titic/ -- ici le projet Flutter ! 
 │   │
 │   └── README.md
 │
 ├── maquettes/
 │   ├── titic.xd
-│   ├── titic.pdf
+│   ├── titic.png
 │   ├── ...
 │
 ├── resources/
-│   ├── logo.png
+│   ├── img/
 │   ├── icons/
-│   │
-│   └── fonts/
+│   
 ├── docs/
 │   ├── user_manual.md
 │   ├── ...
